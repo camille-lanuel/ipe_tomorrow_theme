@@ -12,7 +12,7 @@ The repo contains 4 files:
 
 - **how_to_use.pdf**: instructions on how to use the template.
 
-
+![](/home/clanuel/snap/marktext/9/.config/marktext/images/2025-10-28-18-02-55-Screenshot%20from%202025-10-28%2018-02-40.png)
 
 # LaTeX colors
 
