@@ -1,6 +1,6 @@
 # Presentation
 
-This repo contains the IPE style sheets that I used to create the figures in my PhD thesis and the presentation for my PhD defense.  I used the colors from Chris Kempson's [Tomorrow theme]([GitHub - chriskempson/tomorrow-theme: Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)).
+This repo contains the [IPE](https://ipe.otfried.org/) style sheets that I used to create the figures in my PhD thesis and the presentation for my PhD defense.  I used the colors from Chris Kempson's [Tomorrow theme]([GitHub - chriskempson/tomorrow-theme: Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)).
 
 The repo contains 4 files:
 
