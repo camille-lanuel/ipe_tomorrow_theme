@@ -1,6 +1,6 @@
 # Presentation
 
-This repo contains the [Ipe](https://ipe.otfried.org/) style sheets that I used to create the figures in my PhD thesis and the presentation for my PhD defense.  I used the colors from Chris Kempson's [Tomorrow theme]([GitHub - chriskempson/tomorrow-theme: Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme)).
+This repo contains the [Ipe](https://ipe.otfried.org/) style sheets that I used to create the figures in my PhD thesis and the presentation for my PhD defense.  I used the colors from Chris Kempson's [Tomorrow theme](https://github.com/chriskempson/tomorrow-theme).
 
 The repo contains 4 files:
 
@@ -34,4 +34,4 @@ If you want to use Tomorrow's colors in LaTeX, copy paste the following (and don
 
 # Thanks
 
-Special thanks to Chris Kempson for the color theme and to [Oleg Soloviev]([Making presentation template in Ipe | Oleg Soloviev](https://olejorik.github.io/post/ipe_presentation_template/)) for the tutorial on how to create a presentation template in Ipe 😊
+Special thanks to Chris Kempson for the color theme and to [Oleg Soloviev](https://olejorik.github.io/post/ipe_presentation_template/) for the tutorial on how to create a presentation template in Ipe 😊
