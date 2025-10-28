@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="tomorrow_colors">
+<color name="tmw_red" value="0.784 0.157 0.161"/>
+<color name="tmw_orange" value="0.961 0.529 0.122"/>
+<color name="tmw_yellow" value="0.918 0.718 0"/>
+<color name="tmw_green" value="0.443 0.549 0"/>
+<color name="tmw_aqua" value="0.243 0.6 0.624"/>
+<color name="tmw_blue" value="0.259 0.443 0.682"/>
+<color name="tmw_purple" value="0.537 0.349 0.659"/>
+<color name="tmw_lightgray1" value="0.878"/>
+<color name="tmw_lightgray2" value="0.557 0.565 0.549"/>
+<color name="tmw_darkgray1" value="0.302 0.302 0.298"/>
+<color name="tmw_darkgray2" value="0.114 0.122 0.129"/>
+</ipestyle>
