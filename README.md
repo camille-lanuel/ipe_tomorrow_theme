@@ -12,7 +12,7 @@ The repo contains 4 files:
 
 - **how_to_use.pdf**: instructions on how to use the template.
 
-![](/home/clanuel/Pictures/Screenshots/Screenshot%20from%202025-10-28%2018-02-40.png)
+![](template_colors.png)
 
 # LaTeX colors
 
